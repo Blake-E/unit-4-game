@@ -1,0 +1,24 @@
+head {
+    background-color: lightgreen;
+};
+    
+body {
+    background-color: lightgreen;
+};
+
+#red{
+    color: red;
+    border-color: black;
+};
+#blue{
+    color: blue;
+    border-color: black;
+};
+#yellow{
+    color: yellow;
+    border-color: black;
+};
+#green{
+    color: green;
+    border-color: black;
+};
